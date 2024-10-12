@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashmil-Kurikkal&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### 🚶🏽‍♂️ Random 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
