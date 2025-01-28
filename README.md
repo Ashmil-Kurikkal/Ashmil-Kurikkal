@@ -1,5 +1,5 @@
 # 🥷 About :
-💻 I'm currently working on a personal WiFi DeAuth automation tool. <br>🫂 Looking to collaborate on small python projects. <br>🤖 Seeking help with :<br>• Finding free open learning sources for red teaming and cybersec. <br>• Adding more cool features to my telegram bot code. <br>👣 I'm currently learning Java, Cybersec. <br>📈 Git-ing since print ("hello world") 
+💻 I'm currently working on a pentesting tool. <br>🫂 Looking to collaborate on small python projects. <br>🤖 Seeking help with :<br>• Finding free open learning sources for red teaming and cybersec. <br>• Adding more cool features to my telegram bot. <br>👣 I'm currently learning Java, Cybersec. <br>📈 Git-ing since print ("hello world") 
 
 
 ## 🌐 Socials:
