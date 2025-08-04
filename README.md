@@ -1,4 +1,4 @@
-## Cybersec and whatever I feel like doin
+## Cybersec, Web&App Dev and whatever I feel like doin
 
 ### Socials  
 Everything happens there, check out:
