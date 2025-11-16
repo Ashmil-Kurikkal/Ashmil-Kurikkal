@@ -1,5 +1,7 @@
 <div align="center">
 <br />
+<h4>من المية للمية<h4>
+<h4>فلسطين عربية<h4>
 <img src="https://i.postimg.cc/yYzTtGpP/palestine.jpg" width="280" />
 <br /><br />
 $ s1ngularity repository
