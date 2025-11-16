@@ -1,7 +1,33 @@
-## Cybersec, Web&App Dev and whatever I feel like doin
-
-### Socials  
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashmilkurikkal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmil-kurikkal)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashmilkurikkal)
+<div align="center">
+<br />
+<img src="https://i.postimg.cc/yYzTtGpP/palestine.jpg" width="280" />
+<br /><br />
+$ s1ngularity repository
+<br />
+<samp>
+<b>CYBERSEC</b> &nbsp;&mdash;&nbsp; <b>WEB & APP DEV</b>
+</samp>
+<br /><br />
+<code>
+and whatever I feel like doin
+</code>
+<br /><br />
+———
+<br />
+<h3><code>¯\_(ツ)_/¯</code></h3>
+<br />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,react,postgres,mysql,docker,kali,aftereffects,androidstudio,arch,arduino,c,discord,electron,fastapi,git,figma,typescript,html,javascript,npm,windows,nodejs,photoshop,opencv,postman,pytorch,supabase,ubuntu,vscode,&theme=dark" />
+<br /><br />
+<h3><code>Boring :</code></h3>
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashmil-Kurikkal&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="150" alt="stats graph" />
+<br /><br />
+———
+<br /><br />
+<samp>
+[ <a href="#" style="text-decoration: none; color: inherit;">ENCRYPTED_MAIL</a> ]
+&nbsp;::&nbsp;
+[ <a href="#" style="text-decoration: none; color: inherit;">0xKEYS</a> ]
+</samp>
+<br /><br />
+</div>
