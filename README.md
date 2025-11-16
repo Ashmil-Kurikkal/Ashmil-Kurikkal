@@ -22,7 +22,7 @@ and whatever I feel like doin
 <br /><br />
 <h3><code>Boring :</code></h3>
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=Ashmil-Kurikkal&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashmil-Kurikkal&show_icons=true&theme=dark&border_radius=35&locale=ml" height="150" alt="stats graph" />
 <br /><br />
 ———
 <br /><br />
