@@ -7,7 +7,7 @@
 $ s1ngularity repository
 <br />
 <samp>
-<b>CYBERSEC</b> &nbsp;&mdash;&nbsp; <b>WEB & APP DEV</b>
+<b>CYBERSEC, AI/ML</b> &nbsp;&mdash;&nbsp; <b>WEB & APP DEV</b>
 </samp>
 <br /><br />
 <code>
