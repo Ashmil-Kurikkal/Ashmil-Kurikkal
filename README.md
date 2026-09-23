@@ -18,7 +18,7 @@ and whatever I feel like doin
 <br />
 <h3><code>¯\_(ツ)_/¯</code></h3>
 <br />
-<img src="https://skillicons.dev/icons?i=linux,bash,python,react,postgres,mysql,docker,kali,aftereffects,androidstudio,arch,arduino,c,discord,electron,fastapi,git,figma,typescript,html,javascript,npm,windows,nodejs,photoshop,opencv,postman,pytorch,supabase,ubuntu,vscode,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,java,go,rust,react,postgres,mysql,redis,mongodb,graphql,aws,gcp,azure,kubernetes,docker,nginx,tensorflow,pytorch,opencv,kali,fastapi,git,figma,typescript,html,javascript,npm,windows,nodejs,postman,supabase,ubuntu,vscode&theme=dark&perline=12" />
 <br /><br /><br />
 <h3><code>The snake ate my stats </code></h3>
 <picture>
