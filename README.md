@@ -19,13 +19,8 @@ and whatever I feel like doin
 <h3><code>¯\_(ツ)_/¯</code></h3>
 <br />
 <img src="https://skillicons.dev/icons?i=linux,bash,python,react,postgres,mysql,docker,kali,aftereffects,androidstudio,arch,arduino,c,discord,electron,fastapi,git,figma,typescript,html,javascript,npm,windows,nodejs,photoshop,opencv,postman,pytorch,supabase,ubuntu,vscode,&theme=dark" />
-<br /><br />
+<br /><br /><br />
 <h3><code>The snake ate my stats </code></h3>
-<br />
-<br /><br />
-———
-<br /><br />
-<br /><br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashmil-Kurikkal/Ashmil-Kurikkal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashmil-Kurikkal/Ashmil-Kurikkal/output/github-contribution-grid-snake.svg">
